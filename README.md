@@ -1,0 +1,2 @@
+# pymtManagementSys
+Calculates employee paycheck 
